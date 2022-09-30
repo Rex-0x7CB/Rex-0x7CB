@@ -1,6 +1,6 @@
 # Hi, I'm Prashant 👋 💻
 
-I'm a DevSecOps engineer, cyber-security enhusiast and a computer techie! I love learning new technologies to solve my daily-life problems, make my life easier & more autonomous, coming up with new challenges and then, repeating the loop all over again. Highly inspired by Docker Captain Bret Fisher, I like to learn about technoligies like Docker and Cloud and their use to develop better and efficient software development lifecycles.
+I'm an Application Security Engineer, cyber-security enhusiast and a computer techie! I love learning new technologies to solve my daily-life problems, make my life easier & more autonomous, coming up with new challenges and then, repeating the loop all over again. Highly inspired by Docker Captain Bret Fisher, I like to learn about technoligies like Docker and Cloud and their use to develop better and efficient software development lifecycles.
 
 
 ## Find me around the web 🌎:
