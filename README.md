@@ -9,7 +9,7 @@ I'm an Application Security Engineer, cyber-security enhusiast and a computer te
 - Get in touch with me on <a href="https://www.linkedin.com/in/prashantgupta0x7cb/">LinkedIn</a> 💼
 
 
-<a align= "center" href="https://github.com/warifp">
+<a align= "center" href="https://github.com/Rex-0x7CB">
     <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Rex-0x7CB&theme=prussian&hide_border=true&hide=commits,prs,contribs&rank_icon=github&show_icons=true&count_private=true" />
     <img align='right' alt= "stats card" height="200px" width="400" src="http://github-readme-streak-stats.herokuapp.com/?user=Rex-0x7CB&hide_border=true&theme=prussian&background=193549D&stroke=00E6FE" />
 </a>
