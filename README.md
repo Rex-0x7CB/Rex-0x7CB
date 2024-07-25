@@ -4,7 +4,6 @@ I'm an Application Security Engineer, cyber-security enhusiast and a computer te
 
 
 ## Find me around the web 🌎:
-- Learning on <a href="https://www.udemy.com/user/prashant-gupta-67">Udemy - Prashant</a> 📹
 <!-- - Giving words to my free thoughts at <a href="https://crackerscreed.org">Crackerscreed.org</a> ✍ -->
 - Get in touch with me on <a href="https://www.linkedin.com/in/prashantgupta0x7cb/">LinkedIn</a> 💼
 
